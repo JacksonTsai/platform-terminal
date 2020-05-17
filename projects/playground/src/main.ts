@@ -1,4 +1,5 @@
-import { platformTerminalDynamic } from 'platform-terminal';
+// import { platformTerminalDynamic } from 'platform-terminal/';
+import { platformTerminalDynamic } from '../../platform-terminal/src/public_api';
 import { enableProdMode } from '@angular/core';
 
 import { AppModule } from './app/app.module';
